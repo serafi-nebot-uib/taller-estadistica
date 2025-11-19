@@ -362,6 +362,8 @@ Del fichero con los datos de listings `listings0` calcula los estadísticos desc
 
 Presenta los resultados con una tabla de kableExtra.
 
+PROVA COMMIT
+
 ## Pregunta 2 (**1punto**)
 
 Consideremos las variables `price` y `number_of_reviews` de Pollença y Palma del periodo "2024-09-13", del fichero `listing_common0_select.RData`. 
